@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">connectetusonou</string>
+    <string name="title_inscrip">Inscription</string>
+    <string name="msg_inscrip">Inscrivez vous pour continuer</string>
+    <string-array name="sexe">
+        <item>Choississez le sexe</item>
+        <item>masculin</item>
+        <item>feminin</item>
+    </string-array>
+</resources>
